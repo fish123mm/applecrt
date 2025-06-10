@@ -51,7 +51,10 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
+    },
+    {
+      "name": "fish's Server",
+      "address": "http://applecrt.080212.xyz:6969"
     }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+  ]
 }
